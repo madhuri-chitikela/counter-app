@@ -2,7 +2,7 @@
 
 description: to be written
 
-[View Demo here](https://madhuri-chitikela.github.io/counter/)
+[View Demo here](https://madhuri-chitikela.github.io/counter-app/)
 
 <img src="docs/counter.png" height="500" />
 
